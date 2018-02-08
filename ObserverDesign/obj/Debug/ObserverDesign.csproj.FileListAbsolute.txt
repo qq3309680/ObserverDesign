@@ -1,0 +1,9 @@
+E:\users\tanz01\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+E:\users\tanz01\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.exe
+E:\users\tanz01\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.pdb
+E:\users\tanz01\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.csprojResolveAssemblyReference.cache
+E:\users\tanz01\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.exe
+E:\users\tanz01\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.pdb
+E:\users\tanz01\DesignPattern\ObserverDesign\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+E:\users\tanz01\DesignPattern\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.exe
+E:\users\tanz01\DesignPattern\ObserverDesign\ObserverDesign\obj\Debug\ObserverDesign.pdb
